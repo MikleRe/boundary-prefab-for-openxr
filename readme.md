@@ -4,7 +4,7 @@ GameObject prefab to display OpenXR boundaries
 
 ## Authors
 
-- Simonin Dan Nathan "simod4@bfh.ch"
+- Simonin Dan Nathan
 
 ## Usage
 
