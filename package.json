@@ -1,0 +1,9 @@
+{
+  "name": "com.simod4.boundary",
+  "version": "1.0.0",
+  "displayName": "Boundary Prefab for OpenXR",
+  "author": {
+    "name": "Simonin Dan Nathan"
+  },
+  "description": "GameObject prefab to display OpenXR boundaries"
+}
